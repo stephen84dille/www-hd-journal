@@ -1,2 +1,14 @@
 # www-hd-journal
-HTML page archive and documentation
+
+静态页面记录中心
+
+本仓库记录页面发布结果，页面文件会按任务追加保存。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 文件状态
+
+已发布页面以仓库中的 HTML 文件为准，README 只做概览说明。
